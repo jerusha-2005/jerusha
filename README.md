@@ -1,4 +1,3 @@
-# jerusha
 # 💫 About Me:
 Final-year B.Tech student in Artificial Intelligence and Machine Learning with a CGPA of 9.0+. Skilled in Machine Learning, Artificial Intelligence, Data Analysis, Python, Data Structures & Algorithms, and Predictive Modeling. Experienced in developing AI-based projects, analyzing data, and implementing machine learning solutions. Passionate about continuous learning, problem-solving, and applying emerging technologies to create impactful solutions. Seeking entry-level opportunities in AI/ML, Data Science, or Software Development.
 
@@ -13,7 +12,16 @@ Final-year B.Tech student in Artificial Intelligence and Machine Learning with a
 ![](https://streak-stats.demolab.com/?user=jerusha-2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jerusha-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jerusha-2005&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jerusha-2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-[![](https://komarev.com/ghpvc/?username=jerusha-2005&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jerusha-2005&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
